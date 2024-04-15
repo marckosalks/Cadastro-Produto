@@ -1,0 +1,7 @@
+.home{
+  display: flex;
+  align-items: center;
+  padding: 1.5rem;
+  background-color: #0f1d24;
+  border: 1px solid #8BE9FD;
+}

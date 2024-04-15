@@ -1,0 +1,13 @@
+.div-table{
+  background-color: #0f1d24;
+  padding: 1rem;
+}
+
+i.edit{
+  padding-right: 0.25rem;
+  color: #fff;
+}
+
+i.delete{
+  color: #fc3535;
+}

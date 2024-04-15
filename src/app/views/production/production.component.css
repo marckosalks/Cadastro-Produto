@@ -1,0 +1,12 @@
+.botao-produto{
+  padding-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  background-color: #0f1d24;
+  padding-bottom: 1rem;
+}
+
+.botao-produto button{
+  font-size: medium;
+  padding: 1.5rem;
+}
